@@ -1,0 +1,56 @@
+th.main-message{
+	padding: 15px 30px;
+	background: #fafafa;
+}
+
+th.sub-message{
+	padding: 20px 40px;
+	background: #fff;
+	border: 1px dashed #ecb02c;
+}
+
+.gett-object-button{
+	tr{
+		td{
+			tr{
+				td{
+				padding: 10px 15px;
+				cursor: pointer;
+				background: #ecb02c;
+				border: none;
+				text-transform: uppercase;
+				font-size: 12px;
+				letter-spacing: 1px;
+				border: solid 1px #ecb02c;
+					a{
+					padding: 0;
+					font-size: 12px;
+					font-weight: bold;
+					border: none;
+					color: #000;
+					}
+				}
+			}
+		}
+	}
+}
+
+.gett-object-button:hover{
+	tr{
+		td{
+			tr{
+				td{
+				border: solid 1px #ecb02c;
+					a{
+						color: #000;
+					}
+				}
+			}
+		}
+	}
+}
+
+
+table.footer{
+	background: #373737;
+}
