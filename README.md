@@ -1,3 +1,18 @@
+#############################################################
+MY COMMENTS
+#############################################################
+https://github.com/LanaLong/foundation-email2018.git
+
+GITIGNORE
+node_modules
+
+npm install WHEN git pull
+
+#############################################################
+/MY COMMENTS
+#############################################################
+
+
 # Foundation for Emails Template
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
